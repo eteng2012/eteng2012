@@ -18,5 +18,7 @@ Here are some ideas to get you started:
 
 
 • Studying Computer Science at the University of Michigan 〽️
+
 • Passionate about software development, artificial intelligence, and web development 🖥️
+
 • Loves music, recreational fitness, and keeping up with current events 🎵

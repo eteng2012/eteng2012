@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello! My name is Eric! 👋
 
 <!--
 **eteng2012/eteng2012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+• Studying Computer Science at the University of Michigan 〽️
+• Passionate about software development, artificial intelligence, and web development 🖥️
+• Loves music, recreational fitness, and keeping up with current events 🎵
